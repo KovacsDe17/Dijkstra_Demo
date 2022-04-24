@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/activity_main.xml" value="0.1529888551165147" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/add_edge_dialog.xml" value="0.291213768115942" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/dijkstra_dialog.xml" value="0.1529888551165147" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/edit_dialog.xml" value="0.291213768115942" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/generate_dialog.xml" value="0.1529888551165147" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/results_dialog.xml" value="0.291213768115942" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/value_holder.xml" value="0.1529888551165147" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/layout/value_holder_route.xml" value="0.1529888551165147" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/menu/menu.xml" value="0.15364583333333334" />
+        <entry key="..\:/TTIK/KeresztMobil/GraphTestGuava/app/src/main/res/menu/popup_menu.xml" value="0.15364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

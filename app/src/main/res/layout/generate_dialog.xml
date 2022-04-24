@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/generateGraph"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="16dp"
+        android:id="@+id/dialog_title"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/set_node_count"
+        android:textSize="16sp"
+        android:textColor="@color/black"/>
+
+    <NumberPicker
+         android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/node_count_picker"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/set_edge_count"
+        android:textSize="16sp"
+        android:textColor="@color/black"/>
+
+    <NumberPicker
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/edge_count_picker"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/generate"
+        android:textColor="@color/white"
+        android:background="@color/purple_700"
+        android:id="@+id/generate_btn"/>
+</LinearLayout>

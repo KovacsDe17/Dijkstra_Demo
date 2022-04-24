@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newGraph"
+        android:title="@string/createNewGraph" />
+
+    <item
+        android:id="@+id/addNode"
+        android:title="@string/addNode" />
+
+    <item
+        android:id="@+id/addEdge"
+        android:title="@string/addEdge" />
+
+    <item
+        android:id="@+id/runDijkstra"
+        android:title="@string/runDijkstra" />
+
+    <item
+        android:id="@+id/results"
+        android:title="@string/results" />
+
+</menu>
