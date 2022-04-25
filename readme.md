@@ -3,9 +3,9 @@
 ---
 Ez a projekt az *Optimalizálás Alkalmazásai* kurzus teljesítése végett jött létre. A feladat a legrövidebb út feladat megoldása a Dijkstra algoritmussal, JAVA nyelven, Androidos eszközökre.
 
-A programhoz készült egy [használati útmutató]() is.
+A programhoz készült egy [használati útmutató](https://github.com/KovacsDe17/Dijkstra_Demo/blob/master/UserGuide_OptAlk_KovacsDaniel_WQU2KS.pdf) is.
 ## Követelmények
-Kötelező elemek, amelyek az [előleadás]() során kerültek rögzítésre:
+Kötelező elemek, amelyek az [előleadás](https://github.com/KovacsDe17/Dijkstra_Demo/blob/master/Beadando_OptAlk_KovacsDaniel_WQU2KS.pdf) során kerültek rögzítésre:
 - Tetszőleges, irányítatlan, súlyozott gráf
 - Gráf létrehozása csúcsok és élek meghatározásával
 - Gráf véletlenszerű generálása
